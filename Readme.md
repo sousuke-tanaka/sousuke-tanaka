@@ -201,7 +201,7 @@
   </a>
 </p>
 
-| ![Github stats](https://github-readme-stats.vercel.app/api?username=daring-honeybadger&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=daring-honeybadger&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight) |
+| ![Github stats](https://github-readme-stats.vercel.app/api?username=sousuke-tanaka&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=daring-honeybadger&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daring-honeybadger&include_all_commits=true&count_private=true&theme=tokyonight)
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sousuke-tanaka&include_all_commits=true&count_private=true&theme=tokyonight)
 <br>
